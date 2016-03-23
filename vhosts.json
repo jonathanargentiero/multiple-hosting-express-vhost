@@ -1,0 +1,14 @@
+[
+  {
+    "domain": "www.example.com",
+    "path": "public/example_com"
+  },
+  {
+    "domain": "subdomain.example.com",
+    "path": "public/subdomain_example_com"
+  },
+  {
+    "domain": "my.website.com",
+    "path": "public/my_website_com"
+  }
+]
